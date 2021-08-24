@@ -12617,7 +12617,7 @@ body {
  */
 /* line 43, src/assets/scss/base/_base.scss */
 a {
-  color: #dc3545;
+  background-color: black;
   text-decoration: none;
 }
 
